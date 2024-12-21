@@ -1,4 +1,4 @@
-# CodeAnt AI Platform
+# CodeAnt AI Assignment
 
 
 ## Technology Stack
