@@ -64,11 +64,6 @@ src/
 
 
 
-For support queries:
-- Use the in-app support button
-- Visit our documentation
-- Contact our support team
+![Screenshot (76)](https://github.com/user-attachments/assets/0506384b-171d-4bd6-9028-d17d609a0cff)
+![Screenshot (75)](https://github.com/user-attachments/assets/bb4a80df-8b6a-4219-9f24-973bcc39b3b5)
 
----
-
-Made with ♥ by CodeAnt AI Team
